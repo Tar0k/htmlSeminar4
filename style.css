@@ -18,6 +18,9 @@ body {
     background: #020A18;
 }
 
+.font-section{
+}
+
 .font {
     position: absolute;
     border-radius: 10px;
@@ -113,3 +116,4 @@ h6 {
     display: flex;
     gap: 71px;
 }
+
